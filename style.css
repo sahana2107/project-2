@@ -1,0 +1,19 @@
+h1{
+    color:aqua;
+    background-color:navy
+}
+p{
+    color:mediumvioletred;
+}
+*{
+    background-color: black;
+}
+.footer{
+  text-align:center;
+  justify-content: space-evenly;
+  
+}
+.pictures{
+    display:flex;
+    justify-content:flex-end;
+}
